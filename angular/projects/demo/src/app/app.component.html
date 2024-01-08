@@ -49,6 +49,12 @@
   <button (click)="saveGrid()">Save</button>
   <button (click)="clearGrid()">Clear</button>
   <button (click)="loadGrid()">Load</button>
+
+
+  <label for="chartTypeSel">Chart Type:</label>
+  <select id="chartTypeSel" [(ngModel)]="chartType">  <!-- (change)="onChartTypeChange($event)" required> $event.target.value-->
+    <option *ngFor="let type of chartTypeList | enumToArray" [value]="type">{{type}}</option>
+  </select>
   <button (click)="addChart()">add Chart</button>
   <gridstack [options]="gridOptionsFull" (changeCB)="onChange($event)" (resizeStopCB)="onResizeStop($event)">
   </gridstack>

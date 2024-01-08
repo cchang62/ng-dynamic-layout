@@ -22,6 +22,7 @@ Join us on Slack: [https://gridstackjs.slack.com](https://join.slack.com/t/grids
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
+- [gridstack.js](#gridstackjs)
 - [Demo and API Documentation](#demo-and-api-documentation)
 - [Usage](#usage)
   - [Install](#install)
@@ -50,6 +51,7 @@ Join us on Slack: [https://gridstackjs.slack.com](https://join.slack.com/t/grids
 - [jQuery Application](#jquery-application)
 - [Changes](#changes)
 - [The Team](#the-team)
+- [Ref.](#ref)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -507,3 +509,11 @@ View our change log [here](https://github.com/gridstack/gridstack.js/tree/master
 # The Team
 
 gridstack.js is currently maintained by [Alain Dumesny](https://github.com/adumesny), before that [Dylan Weiss](https://github.com/radiolips), originally created by [Pavel Reznikov](https://github.com/troolee). We appreciate [all contributors](https://github.com/gridstack/gridstack.js/graphs/contributors) for help.
+
+
+# Ref.
+
+1. https://ng-run.com/edit/XpKqpMjxjZvUNKDxRxLS?open=app%2Fapp.component.html
+2. https://stackoverflow.com/questions/38554562/how-can-i-use-ngfor-to-iterate-over-typescript-enum-as-an-array-of-strings
+3. https://stackblitz.com/edit/angular14-highcharts?file=src%2Fapp%2Fapp.component.ts
+4. https://old-oomusou.goodjack.tw/angular/ngmodel/ (Traditional Chinese - 2-way binding)
